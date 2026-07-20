@@ -1,0 +1,15 @@
+# Auto-generated: build artifacts, secrets, caches, large binaries excluded
+node_modules/
+.env
+.env.*
+__pycache__/
+*.pyc
+venv/
+.venv/
+browser_data/
+dist/
+build/
+*.zip
+*.rar
+*.7z
+*.exe
